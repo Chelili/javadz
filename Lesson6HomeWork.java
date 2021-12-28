@@ -2,7 +2,7 @@
  *Java 1. Homework #6
  *
  * @author Liliya Chernobay
- * @version 25.12.2021
+ * @version 28.12.2021
  */
 class Lesson6HomeWork {
 
